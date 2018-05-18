@@ -1,3 +1,2 @@
-Just basic things I've written in order to make sure I have something to show
-FS: Fourier Series
-Basic Graphing: Just how to graph things and make them interactive
+# What is this? 
+You're looking at my laziest, most vague ideas here. Most of the code is based on ideas that I've had that I intend to work with eventually, but really haven't had the time to work on yet. 
